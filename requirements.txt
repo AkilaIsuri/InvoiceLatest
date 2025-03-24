@@ -22,8 +22,7 @@ requests==2.31.0
 requests-toolbelt==1.0.0
 
 # AI/ML Related
-groq==0.4.0
-langchain_groq==0.1.6
+
 
 # Date Parsing (used in your code)
 python-dateutil==2.8.2
